@@ -7,3 +7,7 @@ Links:
 Github: https://github.com/David-P3FES/TeamOneProject.git
 
 Google Docs: https://docs.google.com/document/d/1PVrvDvhmOM_6AnOFCV89C7pmykeMCEivPBU-M5xmDtM/edit?usp=sharing
+
+CLick Up: https://app.clickup.com/9011196981/v/s/90110900505
+
+![desc](https://wallpapers.com/images/hd/coding-and-coffee-o33mx7bb45cwpend.jpg)
