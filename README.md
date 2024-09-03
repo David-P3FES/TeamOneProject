@@ -5,4 +5,4 @@ In this repository we will develop and document the whole process of the develop
 
 Links:
 Github: https://github.com/David-P3FES/TeamOneProject.git
-https://docs.google.com/document/d/1PVrvDvhmOM_6AnOFCV89C7pmykeMCEivPBU-M5xmDtM/edit?usp=sharing
+Google Docs: https://docs.google.com/document/d/1PVrvDvhmOM_6AnOFCV89C7pmykeMCEivPBU-M5xmDtM/edit?usp=sharing
